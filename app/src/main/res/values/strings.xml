@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BranchTask</string>
+    <string name="share_deeplink">Click to share Link</string>
+</resources>
